@@ -1,22 +1,29 @@
-<h1> Hi, I'm Gonzalo Melgar! <img src="https://c.tenor.com/Mzp8XE3LrugAAAAC/sonic.gif" width="40"></h1>
-
-<p><em>Computer Engineer from Fing Udelar <a href="http://www.unb.br">Fing Udelar</a>
+<h2> Hi, I'm Gonzalo Melgar!</h2>
+<!--
+<p>Computer Engineer from <a href="http://www.unb.br">Fing UdelaR</a>
 </br>Software Engineer/Team Leader at <a href="https://www.tarmac.io">tarmac</a> <img src="https://gmelgaba.github.io/assets/images/experience/tarmac.jpg" width="20">
-</em></p>
+</p> -->
 
+
+<p>
+I'm a full-stack developer with 10+ years of hands-on experience developing and designing solutions using several tools and programming languages. I really encourage best practices, and I think that there are always new things to learn.
+
+I really enjoy playing videogames, the ocassional boardgame, and going to the movies anytime.
+<img src="https://c.tenor.com/Mzp8XE3LrugAAAAC/sonic.gif" width="20">
+</p>
 
 ![visitors](https://visitor-badge.laobi.icu/badge?page_id=gmelgaba)
 [![GitHub gmelgaba](https://img.shields.io/github/followers/gmelgaba?label=follow&style=social)](https://github.com/gmelgaba)
-
 [![Linkedin: gmelgaba](https://img.shields.io/badge/-gmelgaba-blue?style=flat-square&logo=Linkedin&logoColor=white&link=https://www.linkedin.com/in/gmelgaba/)](https://www.linkedin.com/in/gmelgaba/)
 [![website](https://img.shields.io/badge/Website-46a2f1.svg?&style=flat-square&logo=Google-Chrome&logoColor=white&link=https://anmolsingh.me/)](https://gmelgaba.github.io/)
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/0ny35jaa9ga0azi1smsg5h15s?si=8f9d3b9d79854f14)](https://open.spotify.com/user/0ny35jaa9ga0azi1smsg5h15s?si=8f9d3b9d79854f14)
 
 
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="500" height="320" />
+
+<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
 
 
-<br><em>Some of the techs I've been using over the years</em><br>
+<br/>Here are some of the techs I've been using over the years<br/>
 <p>
   <img alt="aws" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
   <img alt="Nodejs" src="https://img.shields.io/badge/-Nodejs-43853d?style=flat-square&logo=Node.js&logoColor=white" />
