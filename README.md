@@ -19,10 +19,6 @@ I really enjoy playing videogames, the ocassional boardgame, and going to the mo
 [![spotify](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white&link=https://open.spotify.com/user/0ny35jaa9ga0azi1smsg5h15s?si=8f9d3b9d79854f14)](https://open.spotify.com/user/0ny35jaa9ga0azi1smsg5h15s?si=8f9d3b9d79854f14)
 
 
-
-<img alt="GIF" src="https://github.com/abhisheknaiidu/abhisheknaiidu/blob/master/code.gif?raw=true" width="300"/>
-
-
 <br/>Here are some of the techs I've been using over the years<br/>
 <p>
   <img alt="aws" src="https://img.shields.io/badge/aws-232F3E?style=flat-square&logo=amazon-aws&logoColor=white" />
